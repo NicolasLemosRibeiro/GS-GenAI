@@ -1,0 +1,31 @@
+Satélites de Observação da Terra e Monitoramento Ambiental
+
+Os satélites de observação da Terra são plataformas orbitais equipadas com
+sensores que coletam dados sobre a superfície terrestre, a atmosfera e os
+oceanos. Eles formam a base da chamada nova economia espacial, na qual os
+dados coletados do espaço alimentam serviços comerciais, ambientais e
+governamentais.
+
+Programas e satélites relevantes:
+- O programa Landsat, operado pela NASA e pelo USGS, fornece imagens da
+  superfície terrestre desde 1972. É a série de observação contínua mais
+  longa da história, com resolução espacial de 30 metros nas bandas
+  multiespectrais.
+- O programa Copernicus, da Agência Espacial Europeia (ESA), opera os
+  satélites Sentinel. O Sentinel-2 captura imagens ópticas com resolução de
+  até 10 metros e revisita a mesma região a cada cinco dias.
+- O Sentinel-1 utiliza radar de abertura sintética (SAR), capaz de enxergar
+  através de nuvens e operar à noite, sendo essencial para o monitoramento de
+  enchentes e deslizamentos.
+
+Aplicações de monitoramento ambiental:
+- Desmatamento: a combinação de imagens ópticas e de radar permite detectar
+  perda de cobertura florestal quase em tempo real.
+- Qualidade da água: sensores medem clorofila e turbidez para identificar
+  florações de algas.
+- Monitoramento de geleiras e do nível do mar por meio de altimetria por
+  radar.
+
+A resolução temporal (frequência de revisita) e a resolução espacial
+(tamanho do menor objeto distinguível) são os dois parâmetros mais
+importantes ao escolher uma fonte de dados de satélite para uma aplicação.

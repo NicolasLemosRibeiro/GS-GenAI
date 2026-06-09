@@ -1,0 +1,16 @@
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# Vector store gerado em tempo de execução
+vector_store/
+
+# Modelos baixados / cache
+.cache/
+
+# Sistema
+.DS_Store
+
+# Claude Code local
+.claude/

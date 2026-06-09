@@ -1,0 +1,37 @@
+Agricultura Inteligente, Clima e Desastres Naturais a partir de Dados Espaciais
+
+Agricultura inteligente (ou agricultura de precisão) é o uso de dados,
+sensores e satélites para otimizar a produção agrícola, reduzir custos e
+diminuir o impacto ambiental.
+
+Índices de vegetação:
+- O NDVI (Índice de Vegetação por Diferença Normalizada) é calculado a partir
+  das bandas do vermelho e do infravermelho próximo. Valores próximos de 1
+  indicam vegetação densa e saudável; valores próximos de 0 indicam solo
+  exposto ou vegetação estressada.
+- O NDWI mede o conteúdo de água na vegetação e no solo, útil para detectar
+  estresse hídrico antes que ele seja visível a olho nu.
+
+Aplicações na agricultura:
+- Mapeamento da variabilidade dentro do talhão para aplicação localizada de
+  fertilizantes e água.
+- Previsão de produtividade (yield) combinando NDVI, dados climáticos e
+  modelos de aprendizado de máquina.
+- Detecção precoce de pragas e doenças por meio de anomalias espectrais.
+
+Dados climáticos:
+- Satélites meteorológicos como os da série GOES e o Meteosat fornecem
+  imagens da atmosfera a cada poucos minutos, alimentando modelos de previsão
+  do tempo.
+- Missões como a GPM (Global Precipitation Measurement) medem chuva e neve em
+  escala global, fundamentais para previsão de secas e cheias.
+
+Desastres naturais:
+- Em enchentes, o radar SAR mapeia a extensão da água mesmo sob nuvens.
+- Em incêndios florestais, sensores térmicos como o MODIS e o VIIRS detectam
+  focos de calor (hotspots) várias vezes ao dia.
+- Em terremotos, a interferometria de radar (InSAR) mede deslocamentos do
+  solo na ordem de milímetros, ajudando a avaliar danos e riscos.
+
+A integração desses dados em uma plataforma única permite resposta rápida a
+emergências e apoio à tomada de decisão de governos e empresas.

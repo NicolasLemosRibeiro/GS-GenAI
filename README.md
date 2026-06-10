@@ -2,6 +2,12 @@
 
 Projeto **GS2026.1 — Inteligência Artificial Generativa**.
 
+## 👥 Integrantes do grupo
+
+- Nícolas Lemos Ribeiro — 553273
+- Murilo de Faria Benhossi — 562358
+- Luis Fernando de Oliveira Salgado — 561401
+
 Assistente que responde perguntas sobre a **nova economia espacial** (clima,
 satélites, agricultura inteligente, monitoramento ambiental, desastres
 naturais e exploração espacial) usando arquitetura **RAG
